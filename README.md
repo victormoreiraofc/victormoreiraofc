@@ -1,18 +1,26 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=victormoreiraofc\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=victormoreiraofc\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+![](https://komarev.com/ghpvc/?username=victormoreiraofc&color=006bed)
 
-<!--
-**victormoreiraofc/victormoreiraofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens e Ferramentas:
 
-Here are some ideas to get you started:
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formação Academica:
+
+[<img align="left" height="94px" width="94px" alt="UNINOVE" src="https://media.licdn.com/dms/image/C4D0BAQG9HkMW5p01WA/company-logo_200_200/0/1565275697333?e=1700697600&v=beta&t=Cbm2MJVv4TDrvgdkfc05et5mtdJl1BfjddduAXj56I0"/>](https://media.licdn.com/)
+
+**Bacharelado em Ciência da Computação** \
+[**UNINOVE**](https://www.uninove.br/) • 2023 - 2026 \
+Linguagens & Tecnologias: `Java` , `GitHub`.\
+Projetos Desenvolvidos: [Academia LogFit](https://github.com/erickotico/LogFit).
+<br/>
+
+## Contato
+
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=victormoreiraoficial@gmail.com)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-moreira-teixeira/)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/victormoreiraofc)
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victormoreira7_/?hl=pt-br)
