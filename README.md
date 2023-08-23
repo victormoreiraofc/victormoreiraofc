@@ -1,31 +1,36 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-![](https://komarev.com/ghpvc/?username=victormoreiraofc&color=006bed)
+<h1 align="left">Hello, I'm Victor Moreira!</h1>
 
-## Linguagens e Ferramentas:
+<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br />
 
-## Formação Academica:
+### Languages and Tools:
 
-[<img align="left" height="94px" width="94px" alt="UNINOVE" src="https://media.licdn.com/dms/image/C4D0BAQG9HkMW5p01WA/company-logo_200_200/0/1565275697333?e=1700697600&v=beta&t=Cbm2MJVv4TDrvgdkfc05et5mtdJl1BfjddduAXj56I0"/>](https://media.licdn.com/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
-**Bacharelado em Ciência da Computação** \
-[**UNINOVE**](https://www.uninove.br/) • 2023 - 2026 \
-Linguagens & Tecnologias: `Java` , `GitHub`.\
-Projetos Desenvolvidos: [Academia LogFit](https://github.com/erickotico/LogFit).
+### Softwares:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+
+
+<br />
+<br />
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/6n2nxNzB3D83qFZEPcHbZv?si=f9d6260620fe455c&pt=cef31961863ca8f90032143243d210dd)
 <br/>
-
-## Contato
-
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=victormoreiraoficial@gmail.com)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-moreira-teixeira/)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/victormoreiraofc)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/victormoreira7_/?hl=pt-br)
-
-<! -- 
-https://devicon.dev/
-https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
---!>
+---
