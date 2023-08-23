@@ -23,10 +23,6 @@
   <img width="26px" src="1200px-Apache_NetBeans_Logo.svg-removebg-preview.png">
 </p>
 
-
-<br />
-<br />
-
 ---
 
 
