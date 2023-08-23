@@ -8,10 +8,12 @@
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 ### Softwares:
 
@@ -31,6 +33,6 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/6n2nxNzB3D83qFZEPcHbZv?si=f9d6260620fe455c&pt=cef31961863ca8f90032143243d210dd)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]()
 <br/>
 ---
