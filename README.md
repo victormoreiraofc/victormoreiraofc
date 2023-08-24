@@ -16,7 +16,7 @@
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying **Computer Science** at <a href="https://www.uninove.br/">UNINOVE</a>.
 - 🎤 I'm Speak **Portuguese, English and Spanish**.
-- 🌱 Learning more about **HTML, CSS**.
+- 🌱 Learning more about **HTML, CSS, SQL**.
 
 ### Languages and Tools:
 
