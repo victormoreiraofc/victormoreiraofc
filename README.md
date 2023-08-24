@@ -11,17 +11,21 @@
 <br />
 <br />
 
+<h3>Sobre mim</h3>
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Ciência da Computação** na <a href="https://www.uninove.br/">UNINOVE</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS**.
+
 ### Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" height="40" />
-
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
 ### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<p align="left">
-  <img width="26px" src="1200px-Apache_NetBeans_Logo.svg-removebg-preview.png">
-</p>
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
