@@ -11,11 +11,12 @@
 <br />
 <br />
 
-<h3>Sobre mim</h3>
+<h3>About Me</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Ciência da Computação** na <a href="https://www.uninove.br/">UNINOVE</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **HTML, CSS**.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying **Computer Science** at <a href="https://www.uninove.br/">UNINOVE</a>.
+- 🎤 I'm Speak **Portuguese, English and Spanish**.
+- 🌱 Learning more about **HTML, CSS**.
 
 ### Languages and Tools:
 
