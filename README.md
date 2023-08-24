@@ -41,10 +41,11 @@
 <br/>
 ---
 
-<a href="https://github.com/victormoreiraofc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dracula&hide_langs_below=1" />
-</a>
+### GitHub Status
 
-<a href="https://github.com/victormoreiraofc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+![](https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false)<br/>
+
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=victormoreiraofc&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
