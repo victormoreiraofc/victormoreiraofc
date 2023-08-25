@@ -11,7 +11,7 @@
 <br />
 <br />
 
-<h3>About Me</h3>
+### About Me
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying **Computer Science** at <a href="https://www.uninove.br/">UNINOVE</a>.
