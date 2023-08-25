@@ -4,7 +4,7 @@
 
 <a href="https://www.instagram.com/victormoreira7_/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-<a href="victormoreiraoficial@gmail.com" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDvdCLXZLDmnzllrHdkgptsHnKMFNMhhLcrvgzcLZVnnRWmbhGqJfhRjtwzrMfMzswxbWVG" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 <a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
 <br />
