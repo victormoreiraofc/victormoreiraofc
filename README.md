@@ -23,9 +23,11 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Scratch](https://img.shields.io/badge/-Scratch-333333?style=flat&logo=scratch&logoColor=FFA500)
+![.LUA](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=blue)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=blue)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=%23009fff)
 
 ### Softwares:
 
