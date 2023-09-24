@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<a href="https://www.instagram.com/victormoreira7_/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+<a href="https://www.instagram.com/victormoreira7_/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>
 <a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDvdCLXZLDmnzllrHdkgptsHnKMFNMhhLcrvgzcLZVnnRWmbhGqJfhRjtwzrMfMzswxbWVG" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
-<a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" /></a>
+<a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
 
 <br />
 <br />
