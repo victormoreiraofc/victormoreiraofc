@@ -27,7 +27,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=blue)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=%23009fff)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 
 ### Softwares:
 
