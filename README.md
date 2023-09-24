@@ -8,8 +8,6 @@
 <a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
 
 <br />
-<br />
-<br />
 
 ### About Me
 
