@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/victormoreiraofc?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=ff413d&labelColor=f10500&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=BA9939&labelColor=BA9951&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
   <a href="https://github.com/victormoreiraofc?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
+    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=BA9939&labelColor=BA9951&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
   <a href="https://github.com/victormoreiraofc">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/victormoreiraofc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/victormoreiraofc?color=BA9939&labelColor=BA9951&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <br />
 
@@ -25,11 +25,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Scratch](https://img.shields.io/badge/-Scratch-333333?style=flat&logo=scratch&logoColor=FFA500)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![.LUA](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=blue)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=jameson&logoColor=yellow)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=blue)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=%231572B6)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Oracle SQL Developer](https://img.shields.io/badge/-Oracle%20SQL%20Developer-333333?style=flat&logo=oracle&logoColor=%23F80000)
 
 #### Softwares:
 
