@@ -30,6 +30,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=%231572B6)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Oracle SQL Developer](https://img.shields.io/badge/-Oracle%20SQL%20Developer-333333?style=flat&logo=oracle&logoColor=%23F80000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 #### Softwares:
 
