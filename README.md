@@ -48,17 +48,29 @@
 <table>
   <tr>
     <td>
-       <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victormoreiraofc&theme=gruvbox" alt="Github stats" />
-      </td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
     <td>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoreiraofc&theme=gruvbox" alt="Github stats" />
-  </td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
     <td>
-<br/>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoreiraofc&theme=gruvbox" alt="Github stats" />
- </td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
   </tr>
-</table><br/>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
