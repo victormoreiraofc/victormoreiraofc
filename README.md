@@ -93,7 +93,7 @@
 </p>
 <br>
 <p align="center">
-  <img alt="centered image" height="85" src="images/br.svg"/>
+  <img alt="centered image" height="85" src="images/brasil.png"/>
   <br>
 Ultima atualização: quinta-feira, 27 de março de 2025 às 14:26 (BRT)
 </p>
