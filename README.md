@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/victormoreiraofc?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=BA9939&labelColor=BA9951&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=BA9939&labelColor=383838&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
   <a href="https://github.com/victormoreiraofc?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=BA9939&labelColor=BA9951&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
+    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=BA9939&labelColor=383838&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
   <a href="https://github.com/victormoreiraofc">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/victormoreiraofc?color=BA9939&labelColor=BA9951&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/victormoreiraofc?color=BA9939&labelColor=383838&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <br />
 
@@ -29,9 +29,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=%231572B6)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Oracle SQL Developer](https://img.shields.io/badge/-Oracle%20SQL%20Developer-333333?style=flat&logo=oracle&logoColor=%23F80000)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Lua](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua&logoColor=blue)
+
 
 #### Softwares:
 
@@ -40,36 +42,28 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime%20text)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+![Apache Netbeans](https://img.shields.io/badge/Apache%20Netbeans-333333?style=flat&logo=apache&logoColor=green)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
 ### ⚙️ GitHub Analytics
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
@@ -77,7 +71,7 @@
 ### 🏆 GitHub Profile Trophy:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
 
@@ -91,6 +85,15 @@
   <img src="https://profile-counter.glitch.me/victormoreiraofc/count.svg" />  
 </p>
 
-<p align="center" >   
-  <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victormoreiraofc&theme=github-compact)](https://github.com/victormoreiraofc/github-readme-activity-graph)
+
+<p align="center">
+<br>
+<text>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.<br> —Samuel Custódio</text>
+</p>
+<br>
+<p align="center">
+  <img alt="centered image" height="85" src="images/br.svg"/>
+  <br>
+Ultima atualização: quinta-feira, 27 de março de 2025 às 14:26 (BRT)
 </p>
