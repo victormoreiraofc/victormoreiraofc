@@ -75,19 +75,19 @@
     <tr>
       <td align="center">
         <a href="https://victoruni9.itch.io/as-aventuras-de-um-estudante"/>
-          <img src="as-aventuras-de-um-estudante.jpeg" width="250px" alt="As aventuras de um estudante"/><br/>
+          <img src="images\as-aventuras-de-um-estudante.jpeg" width="250px" alt="As aventuras de um estudante"/><br/>
           <b>As aventuras de um estudante</b>
         </a>
       </td>
       <td align="center">
         <a href="https://victormoreiraofc.github.io/victormoreiraofc-personal-portfolio/">
-          <img src="portifolio.png" width="250px" alt="Portifólio"/><br/>
+          <img src="images\portifolio.png" width="250px" alt="Portifólio"/><br/>
           <b>Portifólio</b>
         </a>
       </td>
        <td align="center">
         <a href="https://github.com/victormoreiraofc/techeroi-website">
-          <img src="techeroi.png" width="250px" alt="Techeroi"/><br/>
+          <img src="images\techeroi.png" width="250px" alt="Techeroi"/><br/>
           <b>Techeroi</b>
         </a>
       </td>
@@ -95,7 +95,7 @@
     <tr>
       <td align="center">
         <a href="https://sonitrad.vercel.app">
-          <img src="ct-contab.jpeg" width="250px" alt="CT CONTAB"/><br/>
+          <img src="images\ct-contab.jpeg" width="250px" alt="CT CONTAB"/><br/>
           <b>CT CONTAB</b>
         </a>
       </td>
