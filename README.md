@@ -68,32 +68,58 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
+### 🖼️ GitHub Projects:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://victoruni9.itch.io/as-aventuras-de-um-estudante"/>
+          <img src="as-aventuras-de-um-estudante.jpeg" width="250px" alt="As aventuras de um estudante"/><br/>
+          <b>As aventuras de um estudante</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://victormoreiraofc.github.io/victormoreiraofc-personal-portfolio/">
+          <img src="portifolio.png" width="250px" alt="Portifólio"/><br/>
+          <b>Portifólio</b>
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/victormoreiraofc/techeroi-website">
+          <img src="techeroi.png" width="250px" alt="Techeroi"/><br/>
+          <b>Techeroi</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://sonitrad.vercel.app">
+          <img src="ct-contab.jpeg" width="250px" alt="CT CONTAB"/><br/>
+          <b>CT CONTAB</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/victormoreiraofc/count.svg" />  
-</p>
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victormoreiraofc&theme=github-compact)](https://github.com/victormoreiraofc/github-readme-activity-graph)
 
 <p align="center">
 <br>
-<text>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.<br> —Samuel Custódio</text>
+<text>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.<br> -Samuel Custódio</text>
 </p>
 <br>
 <p align="center">
   <img alt="centered image" height="85" src="images/brasil.png"/>
   <br>
-Ultima atualização: quinta-feira, 27 de março de 2025 às 14:26 (BRT)
+Ultima atualização: quinta-feira, 15 de outubro de 2026 às 20:14 (BRT)
 </p>
