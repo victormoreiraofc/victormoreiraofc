@@ -48,23 +48,9 @@
 
 ### ⚙️ GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-</table>
+![victormoreiraofc's Stats](https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![victormoreiraofc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=true)
+![victormoreiraofc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
