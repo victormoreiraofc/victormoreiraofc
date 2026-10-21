@@ -33,7 +33,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Lua](https://img.shields.io/badge/Lua-333333?style=flat&logo=lua&logoColor=blue)
-
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine)
 
 #### Softwares:
 
