@@ -77,3 +77,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/victormoreiraofc/victormoreiraofc/output/github-snake.svg">
   </picture>
 </div>
+
+<img src="images/linha-divisoria.png" width="100%">   
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/victormoreiraofc/victormoreiraofc/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victormoreiraofc/victormoreiraofc/output-3d-contrib/day.svg" />
+    <img alt="gráfico 3D de contribuições" src="https://raw.githubusercontent.com/victormoreiraofc/victormoreiraofc/output-3d-contrib/day.svg" />
+  </picture>
+</p>
