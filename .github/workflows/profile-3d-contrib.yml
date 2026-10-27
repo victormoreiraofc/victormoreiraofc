@@ -23,6 +23,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: conf/github-profile-3d-contrib.json
 
+      - name: remove background
+        run: |
+          sed -i 's/#010203/none/gI' profile-3d-contrib/day.svg profile-3d-contrib/night.svg
+
       - name: push SVGs to the output-3d-contrib branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
