@@ -11,10 +11,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA9951&width=435&lines=Hello%2C+I'm+Victor+Moreira!)](https://git.io/typing-svg)
 <img src="images/linha-divisoria.png" width="100%">  
 
-<a href="https://www.instagram.com/thisisvictormoreira/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>
-<a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="mailto:victormoreiraoficial@gmail.com" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
-<a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
+<a href="https://www.instagram.com/thisisvictormoreira/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="20px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>
+<a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="mailto:victormoreiraoficial@gmail.com" target="_blank"><img align="left" alt="Victor M | GMAIL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
+<a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="20px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
 
 <br />
 
