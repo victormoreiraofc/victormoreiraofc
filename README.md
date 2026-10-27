@@ -6,7 +6,7 @@
   <a href="https://github.com/victormoreiraofc">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/victormoreiraofc?color=BA9951&labelColor=383838&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
-<br />
+<br /><br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA9951&width=435&lines=Hello%2C+I'm+Victor+Moreira!)](https://git.io/typing-svg)
 <img src="images/linha-divisoria.png" width="100%">  
