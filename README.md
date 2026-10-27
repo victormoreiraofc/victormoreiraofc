@@ -1,20 +1,20 @@
 <div align="center">
   <a href="https://github.com/victormoreiraofc?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=BA9939&labelColor=383838&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=BA9951&labelColor=383838&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
   <a href="https://github.com/victormoreiraofc?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=BA9939&labelColor=383838&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
+    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=BA9951&labelColor=383838&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/victormoreiraofc"/></a>
   <a href="https://github.com/victormoreiraofc">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/victormoreiraofc?color=BA9939&labelColor=383838&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/victormoreiraofc?color=BA9951&labelColor=383838&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA9951&width=435&lines=Hello%2C+I'm+Victor+Moreira!)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+<img src="images/linha-divisoria.png">    
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <a href="https://www.instagram.com/thisisvictormoreira/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>
 <a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="mailto: victormoreiraoficial@gmail.com" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
+<a href="mailto:victormoreiraoficial@gmail.com" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 <a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
 
 <br /><br /><br /><br />
@@ -54,43 +54,6 @@
 ![victormoreiraofc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
-
-### 🖼️ GitHub Projects:
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://victoruni9.itch.io/as-aventuras-de-um-estudante"/>
-          <img src="images\as-aventuras-de-um-estudante.jpeg" width="250px" alt="As aventuras de um estudante"/><br/>
-          <b>As aventuras de um estudante</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://victormoreiraofc.github.io/victormoreiraofc-personal-portfolio/">
-          <img src="images\portifolio.png" width="250px" alt="Portifólio"/><br/>
-          <b>Portifólio</b>
-        </a>
-      </td>
-       <td align="center">
-        <a href="https://github.com/victormoreiraofc/techeroi-website">
-          <img src="images\techeroi.png" width="250px" alt="Techeroi"/><br/>
-          <b>Techeroi</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://sonitrad.vercel.app">
-          <img src="images\ct-contab.jpeg" width="250px" alt="CT CONTAB"/><br/>
-          <b>CT CONTAB</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 <div align="center">
   <picture>
