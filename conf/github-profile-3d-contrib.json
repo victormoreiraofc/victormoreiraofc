@@ -2,7 +2,7 @@
   {
     "type": "normal",
     "fileName": "day.svg",
-    "backgroundColor": "transparent",
+    "backgroundColor": "#010203",
     "foregroundColor": "#2b2410",
     "strongColor": "#7d6730",
     "weakColor": "#9a9a9a",
@@ -19,7 +19,7 @@
   {
     "type": "normal",
     "fileName": "night.svg",
-    "backgroundColor": "transparent",
+    "backgroundColor": "#010203",
     "foregroundColor": "#e8dfc8",
     "strongColor": "#BA9951",
     "weakColor": "#8b8b8b",
