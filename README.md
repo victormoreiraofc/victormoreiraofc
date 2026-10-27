@@ -78,6 +78,7 @@
   </picture>
 </div>
 
+<br />
 <img src="images/linha-divisoria.png" width="100%">   
 
 <p align="center">
