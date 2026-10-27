@@ -9,15 +9,18 @@
 <br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA9951&width=435&lines=Hello%2C+I'm+Victor+Moreira!)](https://git.io/typing-svg)
-<img src="images/linha-divisoria.png">    
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="images/linha-divisoria.png" width="100%">  
 
 <a href="https://www.instagram.com/thisisvictormoreira/?theme=dark" target="_blank"><img align="left" alt="Victor M | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" /></a>
 <a href="https://www.linkedin.com/in/victor-moreira-teixeira/" target="_blank"><img align="left" alt="Victor M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="mailto:victormoreiraoficial@gmail.com" target="_blank"><img align="left" alt="Victor M | GMAIL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 <a href="https://github.com/victormoreiraofc" target="_blank"><img align="left" alt="Victor M | GITHUB" width="22px" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" /></a>
 
-<br /><br /><br /><br />
+<br />
+
+<img src="images/laptop_dourado_animado.gif" min-width="400px" max-width="400px" width="400px" align="right">
+
+<br />
 
 #### Languages and Tools:
 
@@ -45,15 +48,27 @@
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
 ![Apache Netbeans](https://img.shields.io/badge/Apache%20Netbeans-333333?style=flat&logo=apache&logoColor=green)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+<br /><br />
+
+<img src="images/linha-divisoria.png" width="100%"> 
 
 ### ⚙️ GitHub Analytics 
 
-![victormoreiraofc's Stats](https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![victormoreiraofc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![victormoreiraofc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=true)
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&show_icons=true&hide_border=true&count_private=true" width="100%">
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&show_icons=true&hide_border=true&layout=compact" width="100%">
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=true" width="100%">
+    </td>
+  </tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+<img src="images/linha-divisoria.png" width="100%">   
   
 <div align="center">
   <picture>
@@ -62,14 +77,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sibylassana95/sibylassana95/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<p align="center">
-<br>
-<text>Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.<br> -Samuel Custódio</text>
-</p>
-<br>
-<p align="center">
-  <img alt="centered image" height="85" src="images/brasil.png"/>
-  <br>
-Ultima atualização: quinta-feira, 15 de outubro de 2026 às 20:14 (BRT)
-</p>
