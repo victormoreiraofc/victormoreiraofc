@@ -41,11 +41,11 @@
 
 #### Softwares:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSIjMDA3QUNDIiBkPSJNNzAgMTBMMzAgNDVsLTE1LTEyTDEwIDM4djI0bDUgNSAxNS0xMkw3MCA5MGwyMC0xMFYyMHoiLz48L3N2Zz4=)
 ![Notepad++](https://img.shields.io/badge/-Notepad%2B%2B-333333?style=flat&logo=notepad%2B%2B)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime%20text)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTIiIGZpbGw9IiMwMEM0Q0MiLz48cGF0aCBkPSJNMTYuMiA4LjZhNSA1IDAgMSAwIDAgNi44IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4K)
 ![Apache Netbeans](https://img.shields.io/badge/Apache%20Netbeans-333333?style=flat&logo=apache&logoColor=green)
 
 <br /><br />
